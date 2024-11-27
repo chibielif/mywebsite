@@ -1,0 +1,162 @@
+﻿@model BlogPostViewModel
+@{
+	ViewData["Title"] = "BlogPostDark";
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+	<meta name="author" content="@Model.Post.writer">
+	<meta name="description" content="@Model.Post.description">
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#FF1493">
+	<title>@Model.Post.title</title>
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="@Model.Post.title" />
+	<meta property="og:description" content="@Model.Post.title" />
+	<meta property="og:image" itemprop="image" content="facebook_banner.png" />
+	<meta property="og:url" content="" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="1024" />
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="facebook_banner.png">
+	<link rel="image_src" href="share_banner.png">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/png" href="img/favicon2.png">
+
+	<!-- Stylesheet CSS -->
+	<link rel="stylesheet" href="~/css/bootstrap-custom.css">
+	<link rel="stylesheet" href="~/css/ionicons.min.css">
+	<link rel="stylesheet" href="~/css/tiny-slider.css">
+	<link rel="stylesheet" href="~/css/lity.min.css">
+	<link rel="stylesheet" href="~/css/simplebar.min.css">
+	<link rel="stylesheet" href="~/css/jquery.mb.YTPlayer.min.css">
+
+	<!-- Main Stylesheet CSS -->
+	<link rel="stylesheet" href="~/css/stylesheet-dark.css">
+
+	<!-- Select Color CSS -->
+	<link rel="stylesheet" href="~/css/color/aqua_color.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&amp;display=swap" rel="stylesheet">
+</head>
+
+<body class="theme-dark blog">
+	<!-- Preloader-->
+	<div class="preloader" style="display:block;">
+		<div class="spinner"></div>
+	</div>
+	<div id="overlay-effect"></div>
+
+	<div class="wrapper">
+		<div class="container">
+			<div class="row">
+				<!-- Article Starts -->
+				<article>
+					<!-- Excerpt Starts -->
+					<div class="blog-excerpt blog-detail mt-5">
+						<img class="responsive-img" src="@Url.Content("~/" + Model.Post.image)" alt="Blog post">
+						<h2 class="text-left"><span>@Model.Post.title</span></h2>
+						<div class="meta meta-post-content">
+							<span><i class="icon ion-md-person"></i> <a href="#">By, @Model.Post.writer</a></span>
+							<span class="date"><i class="icon ion-md-calendar"></i> @Model.Post.date.ToShortDateString()</span>
+							<span><i class="icon ion-ios-chatbubbles"></i> <a href="BlogPostDark.cshtml">@Model.Comments.Count Yorum</a></span>
+						</div>
+						<p>@Model.Post.text</p>
+					</div>
+					<!-- Excerpt Ends -->
+					<!-- Comments Starts -->
+					<div class="comments">
+						<h3 class="comments-heading">@Model.Comments.Count Yorum</h3> <!-- number of comments -->
+						<ul class="comments-list">
+							<li>
+							@foreach (var comment in Model.Comments)
+							{
+									<div class="comment">
+										<img class="comment-avatar pull-left" alt="" src="img/user1.jpg">
+										<div class="comment-body">
+											<div class="meta-data"> <span class="comment-author">@comment.commentWriter</span> <span class="comment-date pull-right">@comment.commentDate.ToShortDateString()</span> </div>
+											<div class="comment-content">
+												<p>@comment.commentText</p>
+											</div>
+											<div> <a class="comment-reply" href="#">Yanıtla</a> </div>
+										</div>
+									</div>
+
+@* 									<ul class="comments-reply">
+										<li>
+											<div class="comment">
+												<img class="comment-avatar pull-left" alt="" src="img/user2.jpg">
+												<div class="comment-body">
+													<div class="meta-data"> <span class="comment-author">Jackson Brown</span> <span class="comment-date pull-right">12 March, 2020</span> </div>
+													<div class="comment-content">
+														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+													</div>
+													<div> <a class="comment-reply" href="#">Reply</a> </div>
+												</div>
+											</div>
+										</li>
+									</ul> *@
+@* 									<div class="comment last">
+										<img class="comment-avatar pull-left" alt="" src="img/user3.jpg">
+										<div class="comment-body">
+											<div class="meta-data"> <span class="comment-author">Jackson Brown</span> <span class="comment-date pull-right">12 March, 2020</span> </div>
+											<div class="comment-content">
+												<p>Lorem</p>
+											</div>
+											<div> <a class="comment-reply" href="#">Reply</a> </div>
+										</div>
+									</div> *@
+							}
+							</li>
+						</ul>
+						<h3 class="comments-heading add-comment">Yorum Ekle</h3>
+						<!-- Comments Form Starts -->
+						<div class="comments-form">
+							<form role="form" method="post" asp-action="AddComment">
+								<!--buraya method=post ve asp-action eklendi -->
+								<div class="row">
+									<div class="form-group col-xl-6">
+										<input id="name" type="text" name="name" class="form-control" placeholder="İsim" required>
+									</div>
+									<div class="form-group col-xl-6">
+										<input id="email" type="text" name="email" class="form-control" placeholder="Email" required>
+									</div>
+									<div class="form-group col-xl-6">
+										<input id="number" type="text" name="phone" class="form-control" placeholder="Telefon Numarası" required>
+									</div>
+									<div class="form-group col-xl-6">
+										<input id="subject" type="text" name="subject" class="form-control" placeholder="Konu" required>
+									</div>
+									<div class="form-group col-xl-12">
+										<textarea id="comment" type="text" name="comment" class="form-control" placeholder="Mesajınız..." required></textarea>
+									</div>
+									<div class="col-12 submit-form">
+										<button class="btn button-main button-scheme" type="submit" name="send"><span>Gönder</span></button>
+									</div>
+								</div>
+							</form>
+						</div>
+						<!-- Comments Form Ends -->
+					</div>
+				</article>
+				<!-- Article Ends -->
+			</div>
+		</div>
+	</div>
+	<!-- Wrapper Ends -->
+	<!-- Scripts-->
+	<script src="~/js/jquery-3.4.1.min.js"></script>
+	<script src="~/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/imagesloaded.pkgd.min.js"></script>
+	<script src="~/js/isotope.pkgd.min.js"></script>
+	<script src="~/js/animatedModal.js"></script>
+	<script src="~/js/tiny-slider.js"></script>
+	<script src="~/js/lity.min.js"></script>
+	<script src="~/js/simplebar.min.js"></script>
+	<script src="~/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="~/js/custom_jquery.js"></script>
+</body>
+</html>

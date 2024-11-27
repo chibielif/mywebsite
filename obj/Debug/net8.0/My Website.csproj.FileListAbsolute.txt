@@ -1,0 +1,53 @@
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\appsettings.json
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.staticwebassets.runtime.json
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.exe
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.deps.json
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.runtimeconfig.json
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\My Website.pdb
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Dapper.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.csproj.AssemblyReference.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.AssemblyInfoInputs.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.AssemblyInfo.cs
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.csproj.CoreCompileInputs.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.RazorAssemblyInfo.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.RazorAssemblyInfo.cs
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets\msbuild.My Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets\msbuild.build.My Website.props
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.My Website.props
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.My Website.props
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\scopedcss\bundle\My Website.styles.css
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.csproj.Up2Date
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.dll
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\refint\My Website.dll
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.pdb
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\My Website.genruntimeconfig.cache
+C:\Users\elfkl\source\repos\My Website\obj\Debug\net8.0\ref\My Website.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\elfkl\source\repos\My Website\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\.vs\\ElifCV\\v17\\DocumentLayout.json",
+      "PackagePath": "staticwebassets\\.vs\\ElifCV\\v17\\DocumentLayout.json"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\.vs\\VSWorkspaceState.json",
+      "PackagePath": "staticwebassets\\.vs\\VSWorkspaceState.json"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\bootstrap-custom.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\aqua_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\aqua_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\blue_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\blue_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\deeppink_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\deeppink_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\gold_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\gold_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\green_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\green_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\orange_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\orange_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\purple_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\purple_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\red_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\red_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\slateblue_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\slateblue_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\color\\yellow_color.css",
+      "PackagePath": "staticwebassets\\css\\color\\yellow_color.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\jquery.mb.YTPlayer.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mb.YTPlayer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\lity.min.css",
+      "PackagePath": "staticwebassets\\css\\lity.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\css\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\stylesheet-dark.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\stylesheet-light.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-light.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\fonts\\ionicons9a08.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons9a08.eot"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\fonts\\ionicons9a08.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons9a08.svg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\fonts\\ionicons9a08.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons9a08.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\fonts\\ionicons9a08.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons9a08.woff"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\fonts\\ionicons9a08.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons9a08.woff2"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\ELIF_KILIC.png",
+      "PackagePath": "staticwebassets\\img\\ELIF_KILIC.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\ELIF_KILIC_black.png",
+      "PackagePath": "staticwebassets\\img\\ELIF_KILIC_black.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-dark-1.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-dark-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-dark-2.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-dark-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-dark-3.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-dark-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-dark-4.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-dark-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-light-1.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-light-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-light-2.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-light-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-light-3.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-light-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\abou-user-img-light-4.jpg",
+      "PackagePath": "staticwebassets\\img\\abou-user-img-light-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\breadcrum_img.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrum_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-1.jpg",
+      "PackagePath": "staticwebassets\\img\\client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-2.jpg",
+      "PackagePath": "staticwebassets\\img\\client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-3.jpg",
+      "PackagePath": "staticwebassets\\img\\client-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-4.jpg",
+      "PackagePath": "staticwebassets\\img\\client-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-5.jpg",
+      "PackagePath": "staticwebassets\\img\\client-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\client-6.jpg",
+      "PackagePath": "staticwebassets\\img\\client-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_1.png",
+      "PackagePath": "staticwebassets\\img\\clients_1.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_2.png",
+      "PackagePath": "staticwebassets\\img\\clients_2.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_3.png",
+      "PackagePath": "staticwebassets\\img\\clients_3.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_4.png",
+      "PackagePath": "staticwebassets\\img\\clients_4.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_5.png",
+      "PackagePath": "staticwebassets\\img\\clients_5.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_6.png",
+      "PackagePath": "staticwebassets\\img\\clients_6.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_7.png",
+      "PackagePath": "staticwebassets\\img\\clients_7.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\clients_8.png",
+      "PackagePath": "staticwebassets\\img\\clients_8.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\facebook_banner.png",
+      "PackagePath": "staticwebassets\\img\\facebook_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\favicon2.png",
+      "PackagePath": "staticwebassets\\img\\favicon2.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\favicon2.png~",
+      "PackagePath": "staticwebassets\\img\\favicon2.png~"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero-small-dark.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-small-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero-small-light.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-small-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_dark_one.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_dark_one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_dark_three.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_dark_three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_dark_two.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_dark_two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_light_one.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_light_one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_light_three.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_light_three.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\hero_light_two.jpg",
+      "PackagePath": "staticwebassets\\img\\hero_light_two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-7.jpg",
+      "PackagePath": "staticwebassets\\img\\item-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-8.jpg",
+      "PackagePath": "staticwebassets\\img\\item-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\item-9.jpg",
+      "PackagePath": "staticwebassets\\img\\item-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\logo.png~",
+      "PackagePath": "staticwebassets\\img\\logo.png~"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\myphoto.jpg",
+      "PackagePath": "staticwebassets\\img\\myphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\myphoto.jpg~",
+      "PackagePath": "staticwebassets\\img\\myphoto.jpg~"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\pattern.png",
+      "PackagePath": "staticwebassets\\img\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\share_banner.png",
+      "PackagePath": "staticwebassets\\img\\share_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\single-blog-post.jpg",
+      "PackagePath": "staticwebassets\\img\\single-blog-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\user1.jpg",
+      "PackagePath": "staticwebassets\\img\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\user2.jpg",
+      "PackagePath": "staticwebassets\\img\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\user3.jpg",
+      "PackagePath": "staticwebassets\\img\\user3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\veri_transferi.png",
+      "PackagePath": "staticwebassets\\img\\veri_transferi.png"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\veri_transferi.png~",
+      "PackagePath": "staticwebassets\\img\\veri_transferi.png~"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\img\\working_process.jpg",
+      "PackagePath": "staticwebassets\\img\\working_process.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\animatedModal.js",
+      "PackagePath": "staticwebassets\\js\\animatedModal.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\custom_jquery.js",
+      "PackagePath": "staticwebassets\\js\\custom_jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\jquery.mb.YTPlayer.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mb.YTPlayer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\lity.min.js",
+      "PackagePath": "staticwebassets\\js\\lity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elfkl\\source\\repos\\My Website\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.My Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.My Website.props",
+      "PackagePath": "build\\My Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.My Website.props",
+      "PackagePath": "buildMultiTargeting\\My Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.My Website.props",
+      "PackagePath": "buildTransitive\\My Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
